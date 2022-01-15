@@ -1,4 +1,4 @@
-### Hello there <img src=wave.gif>
+### Hello there <img src="wave.gif" width="30px">
 
 <!--
 **rayhankinan/rayhankinan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
