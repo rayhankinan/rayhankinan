@@ -35,7 +35,7 @@ My name is Rayhan Kinan Muhannad and I'm currently an undergraduate computer sci
 
 ## 📈 Stats
 <a href="https://github.com/rayhankinan/rayhankinan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhankinan" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhankinan&langs_count=3" />
 </a>
 <a href="https://github.com/rayhankinan/rayhankinan">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhankinan&show_icons=true&line_height=27&count_private=true" alt="Kinan's GitHub Stats" />
