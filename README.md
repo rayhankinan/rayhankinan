@@ -61,4 +61,4 @@ My name is Rayhan Kinan Muhannad and I'm currently an undergraduate computer sci
 [2.1]: linkedin.png
 
 [1]: https://twitter.com/rayhankinanm
-[2]: https://www.linkedin.com/in/rayhan-kinan-m-2a4533206
+[2]: https://www.linkedin.com/in/rayhan-muhannad-2a4533206/
