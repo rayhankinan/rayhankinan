@@ -1,4 +1,4 @@
-# Hi there! <img src="wave.gif" width="20px">
+# Hi there! <img src="wave.gif" width="30px">
 
 My name is Rayhan Kinan Muhannad and I'm currently an undergraduate computer science student at Bandung Institute of Technology. My fields of interest are software engineering, website development, and machine learning. You can find me on [![Twitter][1.1]][1] or on [![LinkedIn][2.1]][2] .
 
