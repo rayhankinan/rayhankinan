@@ -2,6 +2,8 @@
 
 My name is Rayhan Kinan Muhannad and I'm currently an undergraduate computer science student at Bandung Institute of Technology. My fields of interest are software engineering, website development, and machine learning. You can find me on [![Twitter][1.1]][1] or on [![LinkedIn][2.1]][2] .
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rayhankinan)
+
 ## 💻 Tools & Technologies
 
 ### I'm capable of using this
@@ -103,12 +105,20 @@ My name is Rayhan Kinan Muhannad and I'm currently an undergraduate computer sci
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 📈 Stats
-<a href="https://github.com/rayhankinan/rayhankinan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhankinan&show_icons=true&count_private=true&include_all_commits=true&layout=compact&theme=dracula" />
-</a>
-<a href="https://github.com/rayhankinan/rayhankinan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhankinan&show_icons=true&line_height=27&count_private=true&theme=dracula" />
-</a>
+<p align="center">
+    <a href="https://github.com/rayhankinan/rayhankinan">
+        <img src="https://activity-graph.herokuapp.com/graph?username=rayhankinan&theme=xcode" />
+    </a>
+    <a href="https://github.com/rayhankinan/rayhankinan">
+        <img src="https://github-profile-trophy.vercel.app/?username=rayhankinan&column=-1&theme=dracula" />
+    </a>
+    <a href="https://github.com/rayhankinan/rayhankinan">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhankinan&show_icons=true&count_private=true&include_all_commits=true&layout=compact&langs_count=8&theme=dracula" />
+    </a>
+    <a href="https://github.com/rayhankinan/rayhankinan">
+        <img src="https://github-readme-stats.vercel.app/api?username=rayhankinan&show_icons=true&count_private=true&theme=dracula" />
+    </a>
+</p>
 
 [1.1]: twitter.png
 [2.1]: linkedin.png
