@@ -78,6 +78,7 @@ My name is Rayhan Kinan Muhannad and I'm currently an undergraduate computer sci
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -103,10 +104,10 @@ My name is Rayhan Kinan Muhannad and I'm currently an undergraduate computer sci
 
 ## 📈 Stats
 <a href="https://github.com/rayhankinan/rayhankinan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhankinan&langs_count=3" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhankinan&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
 </a>
 <a href="https://github.com/rayhankinan/rayhankinan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhankinan&show_icons=true&line_height=27&count_private=true" alt="Kinan's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhankinan&show_icons=true&line_height=27&count_private=true&layout=compact&theme=dracula" />
 </a>
 
 [1.1]: twitter.png
