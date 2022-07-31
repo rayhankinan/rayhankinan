@@ -104,10 +104,10 @@ My name is Rayhan Kinan Muhannad and I'm currently an undergraduate computer sci
 
 ## 📈 Stats
 <a href="https://github.com/rayhankinan/rayhankinan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhankinan&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhankinan&show_icons=true&count_private=true&include_all_commits=true&layout=compact&theme=dracula" />
 </a>
 <a href="https://github.com/rayhankinan/rayhankinan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhankinan&show_icons=true&line_height=27&count_private=true&layout=compact&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhankinan&show_icons=true&line_height=27&count_private=true&theme=dracula" />
 </a>
 
 [1.1]: twitter.png
