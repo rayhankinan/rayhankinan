@@ -148,6 +148,9 @@ My name is Rayhan Kinan Muhannad and I'm currently an undergraduate computer sci
     <a href="https://github.com/rayhankinan/rayhankinan">
         <img src="https://github-readme-stats.vercel.app/api?username=rayhankinan&show_icons=true&count_private=true&theme=dracula" />
     </a>
+    <a href="https://github.com/rayhankinan/rayhankinan">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhankinan&theme=dark" />
+    </a>
 </p>
 
 [1.1]: twitter.png
