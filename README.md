@@ -137,7 +137,7 @@ My name is Rayhan Kinan Muhannad and I'm currently an undergraduate computer sci
 ## 📈 Stats
 <p align="center">
     <a href="https://github.com/rayhankinan/rayhankinan">
-        <img src="https://activity-graph.herokuapp.com/graph?username=rayhankinan&theme=xcode" />
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rayhankinan&theme=xcode" />
     </a>
     <a href="https://github.com/rayhankinan/rayhankinan">
         <img src="https://github-profile-trophy.vercel.app/?username=rayhankinan&column=-1&theme=dracula" />
