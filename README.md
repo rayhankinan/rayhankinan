@@ -2,7 +2,7 @@
 
 My name is Rayhan Kinan Muhannad and I'm currently an undergraduate computer science student at Bandung Institute of Technology. My fields of interest are software engineering, website development, and machine learning. You can find me on [![Twitter][1.1]][1] or on [![LinkedIn][2.1]][2] .
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rayhankinan)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=rayhankinan.rayhankinan)
 
 ## 💻 Tools & Technologies
 
@@ -68,6 +68,7 @@ My name is Rayhan Kinan Muhannad and I'm currently an undergraduate computer sci
 #### Tools
 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -130,7 +131,6 @@ My name is Rayhan Kinan Muhannad and I'm currently an undergraduate computer sci
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
