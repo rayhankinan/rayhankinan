@@ -132,6 +132,7 @@ My name is Rayhan Kinan Muhannad and I'm currently an undergraduate computer sci
 #### Data Science and Machine Learning
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 #### Tools
 
