@@ -152,19 +152,6 @@ My name is Rayhan Kinan Muhannad and I'm currently an undergraduate computer sci
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)
 
-## 📈 Stats
-<p align="center">
-    <a href="https://github.com/rayhankinan/rayhankinan">
-        <img src="https://github-profile-trophy.vercel.app/?username=rayhankinan&column=-1&theme=dracula" />
-    </a>
-    <a href="https://github.com/rayhankinan/rayhankinan">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhankinan&show_icons=true&count_private=true&include_all_commits=true&layout=compact&langs_count=8&theme=dracula" />
-    </a>
-    <a href="https://github.com/rayhankinan/rayhankinan">
-        <img src="https://github-readme-stats.vercel.app/api?username=rayhankinan&show_icons=true&count_private=true&theme=dracula" />
-    </a>
-</p>
-
 [1.1]: twitter.png
 [2.1]: linkedin.png
 
